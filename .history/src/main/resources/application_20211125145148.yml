@@ -1,0 +1,10 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: main
+      username: QnMhtLWFwIZgOpgosAhEFAzU
+      password: 29W9pHj-wPAIfFxHH1O9axc8,Z_5CeLvxnaITL1MORkT4M_l.P,itLQrOQ6PlXIBKOriL7sNZ8UkJo5IeMANJ-rMjB-kga27GJc3lvgm.XxYBqgXh.EJ4-oqNiz,ZDKr
+
+
+
+# token: AstraCS:QnMhtLWFwIZgOpgosAhEFAzU:483861d7ec3b77b227e918b80b9925d38a5724587afaafbcd0c735e1d302da11
